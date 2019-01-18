@@ -1,2 +1,4 @@
 # ViralAdvertising
-Probelm Name : Viral Advertising solution, Language Used : Java
+Probelm Name : Viral Advertising 
+Language Used : Java
+Solved From Website : Hackerrank.com
